@@ -1,0 +1,37 @@
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.transform,
+.transition,
+.animation {
+	border: 1px solid #999;
+	margin: 20px 0;
+	padding: 0 0;
+}
+
+.box {
+	width: 200px;
+	height: 200px;
+}
+
+.b1 {
+	background-color: #89cff0;
+	/*baby blue*/
+}
+
+.b2 {
+	background-color: #de5d83;
+	/*blush*/
+}
+
+.b3 {
+	background-color: #9696ff;
+	/*purple*/
+}
+
+.b4 {
+	background-color: #e89380;
+	/*orange*/
+}
